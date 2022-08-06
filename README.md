@@ -14,3 +14,5 @@
     - The inputs will persist on page refresh. 
 
 ![Planner](./assets/image1.png)
+
+[Planner](https://ahuang23.github.io/C05_Planner/)
