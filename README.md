@@ -13,6 +13,9 @@
   - The user is able to input their own text for each time block and save their inputs.
     - The inputs will persist on page refresh. 
 
+
+### Website
 ![Planner](./assets/image1.png)
 
+### Links
 [Planner](https://ahuang23.github.io/C05_Planner/)
